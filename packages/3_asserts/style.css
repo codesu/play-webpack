@@ -1,0 +1,14 @@
+@font-face {
+  font-family: 'SummerFont';
+  src: url('./SummerinDecember.otf'),
+       url('./SummerinDecember.ttf');
+}
+
+.hello {
+  color: #333;
+  font-weight: bold;
+  font-size: 50px;
+  font-family: 'SummerFont';
+  background-repeat: no-repeat;
+  background-image: url('./icon.jpg');
+}

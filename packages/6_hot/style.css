@@ -1,0 +1,7 @@
+.hello {
+  color: #333;
+  /*热更新通过style-loader实现*/
+  /*font-weight: bold;*/
+  font-size: 50px;
+  background-repeat: no-repeat;
+}
